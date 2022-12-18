@@ -1,0 +1,1 @@
+Bir nesnenin (MMO tipi oyunlarda envanter eşyalarının) seviye yükseltme sisteminin başlangıç seviyesi örneklendirmesidir.
